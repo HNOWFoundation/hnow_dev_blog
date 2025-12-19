@@ -1,0 +1,9 @@
+<job>
+  <reference><![CDATA[J12345]]></reference>
+  <title><![CDATA[Software Engineer]]></title>
+  <location>
+    <city><![CDATA[Zurich]]></city>
+    <country><![CDATA[CH]]></country>
+  </location>
+  <description><![CDATA[<p>We are seeking a...</p>]]></description>
+</job>

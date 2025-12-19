@@ -1,9 +1,18 @@
-<job>
-  <reference><![CDATA[J12345]]></reference>
-  <title><![CDATA[Software Engineer]]></title>
-  <location>
-    <city><![CDATA[Zurich]]></city>
-    <country><![CDATA[CH]]></country>
-  </location>
-  <description><![CDATA[<p>We are seeking a...</p>]]></description>
-</job>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Blog</title>
+    <link>https://hnowmoodle.pro/developer/</link>
+    <description>Feed creato da terminale</description>
+    <atom:link href="https://hnowmoodle.pro/developer/feed/post.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Primo post di test</title>
+      <link>https://hnowmoodle.pro/developer/post1.html</link>
+      <description>Questo è il primo post di prova creato per FreshRSS.</description>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>https://hnowmoodle.pro/developer/post1.html</guid>
+    </item>
+
+  </channel>
+</rss>
